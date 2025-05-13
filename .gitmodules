@@ -1,0 +1,3 @@
+[submodule "Faythe/vendor/spdlog"]
+	path = Faythe/vendor/spdlog
+	url = https://github.com/gabime/spdlog
